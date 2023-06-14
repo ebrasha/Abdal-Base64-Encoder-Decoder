@@ -20,6 +20,7 @@ Features
 - Encoder Message
 - Decoder Message
 - Support Base64
+- pic to base64 for img tag or css
 - Beautiful appearance
 - Has an installation package
 - No malware
